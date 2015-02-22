@@ -28,7 +28,7 @@ You'll need:
 
 <b>2. Edit the map</b>
 
-<p>This is probably the part that consumes most of the time - which isn't much though. Make a copy of whatever map image you want to use and rename it for example map_erased.jpg. Open it in an editing program and erase all the stations that are not accessible. I used the stamp tool in GIMP which worked perfectly fine. It took me about half an hour.</p>
+<p>This is probably the part that consumes most of the time - which isn't much though. Make a copy of whatever map image you want to use and rename it for example map_erased.jpg. Open it in an editing program and erase all the stations that are not accessible. I used the stamp tool in GIMP which worked perfectly fine. It took me about half an hour. If your transit system provides a PDF plan, you might fare better with editing the map in Inkscape!</p>
 
 <b>3. Set up a github account</b>
 
